@@ -1,4 +1,4 @@
-  # ngx-star-rating
+  # ngx-star-rating (FORKED angular@latest)
   
 <p align="center">
   <h1 align="center">Angular Star Rating (ngx star rating)</h1>
